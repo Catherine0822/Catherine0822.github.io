@@ -13,17 +13,17 @@
   </url>
   
   <url>
-    <loc>https://Catherine0822.github.io/</loc>
-    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://Catherine0822.github.io/contact/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url>
   
   <url>
     <loc>https://Catherine0822.github.io/search/</loc>
+    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Catherine0822.github.io/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url>
   
@@ -165,6 +165,14 @@
   <url>
     <loc>https://Catherine0822.github.io/categories/web-design/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Catherine0822.github.io/elements/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Catherine0822.github.io/posts/</loc>
   </url>
   
 </urlset>
