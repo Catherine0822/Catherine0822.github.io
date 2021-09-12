@@ -1,33 +1,33 @@
 {
-	"publications": [{
-		"Title": "Automatically Generating Cause-and_Effect Questions from Passages",
-		"Authors": "Stasaski, K., Rathod, M., Tu, T., Xiao, Y, and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2021"
+	"Experiences": [{
+		"Title": "Master of Information Management and System",
+		"Location": "University of califonia, Berkeley",
+		"Year": "Aug, 2021 – May, 2023"
 	},
 	{
-		"Title": "Automatic Feedback Generation for Dialog-Based Language Tutors Using Transformer Models and Active Learning",
-		"Authors": "Stasaski, K. and Ramanarayanan, V.",
-		"Venue": "Human-in-the-Loop Dialogue Systems Workshop",
-		"Year": "2020"
+		"Title": "UI UX Intern",
+		"Location": "Source Code Inc.",
+		"Year": "Jan, 2021 – May, 2021"
 	},
 	{
-		"Title": "More Diverse Dialogue Datasets via Diversity-Informed Data Collection",
-		"Authors": "Stasaski, K., Yang, G., and Hearst, M.A.",
-		"Venue": "ACL",
-		"Year": "2020"
+		"Title": "Marketing and Market Research Intern",
+		"Location": "AVL Avance Venture Lab",
+		"Year": "Oct, 2020 – Jan, 2021"
 	},
 	{
-		"Title": " Construction of a Large Open Access Dialogue Dataset for Tutoring",
-		"Authors": "Stasaski, K., Kao, K., and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2020"
+		"Title": "full Time Research Assistant",
+		"Location": "Center for Artificial Intelligence and Advanced Robotics, National Taiwan University",
+		"Year": "July, 2019 – June, 2020"
 	},
 	{
-		"Title": "Multiple Choice Question Generation Utilizing an Ontology",
-		"Authors": "Stasaski, K and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2017"
+		"Title": "Part Time Research Assistant",
+		"Location": "Department of Psychology, National Taiwan University",
+		"Year": "July, 2018 - June, 2019"
+	},
+	{
+		"Title": "Bacholer of Science in Psychology",
+		"Location": "Department of Psychology, National Taiwan University",
+		"Year": "July, 2015 - June, 2019"
 	}]
 	
 }
