@@ -1,32 +1,32 @@
 {
 	"Experiences": [{
 		"Title": "Master of Information Management and System",
-		"Location": "University of califonia, Berkeley",
+		"Organization": "University of califonia, Berkeley",
 		"Year": "Aug, 2021 – May, 2023"
 	},
 	{
 		"Title": "UI UX Intern",
-		"Location": "Source Code Inc.",
+		"Organization": "Source Code Inc.",
 		"Year": "Jan, 2021 – May, 2021"
 	},
 	{
 		"Title": "Marketing and Market Research Intern",
-		"Location": "AVL Avance Venture Lab",
+		"Organization": "AVL Avance Venture Lab",
 		"Year": "Oct, 2020 – Jan, 2021"
 	},
 	{
-		"Title": "full Time Research Assistant",
-		"Location": "Center for Artificial Intelligence and Advanced Robotics, National Taiwan University",
+		"Title": "Full Time Research Assistant",
+		"Organization": "Center for Artificial Intelligence and Advanced Robotics, National Taiwan University",
 		"Year": "July, 2019 – June, 2020"
 	},
 	{
 		"Title": "Part Time Research Assistant",
-		"Location": "Department of Psychology, National Taiwan University",
+		"Organization": "Department of Psychology, National Taiwan University",
 		"Year": "July, 2018 - June, 2019"
 	},
 	{
 		"Title": "Bacholer of Science in Psychology",
-		"Location": "Department of Psychology, National Taiwan University",
+		"Organization": "Department of Psychology, National Taiwan University",
 		"Year": "July, 2015 - June, 2019"
 	}]
 	
