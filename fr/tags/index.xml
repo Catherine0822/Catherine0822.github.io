@@ -6,25 +6,6 @@
     <description>Recent content in Tags on Home | Catherine Yu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
-    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://examplesite.com/fr/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>design</title>
-      <link>https://examplesite.com/fr/tags/design/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://examplesite.com/fr/tags/design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>development</title>
-      <link>https://examplesite.com/fr/tags/development/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://examplesite.com/fr/tags/development/</guid>
-      <description></description>
-    </item>
-    
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright><atom:link href="https://examplesite.com/fr/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
