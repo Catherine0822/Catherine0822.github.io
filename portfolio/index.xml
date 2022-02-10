@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Home | Catherine Yu</title>
-    <link>https://examplesite.com/portfolio/</link>
+    <link>https://catherine0822.github.io/portfolio/</link>
     <description>Recent content in Projects on Home | Catherine Yu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
-    <lastBuildDate>Tue, 14 Dec 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://examplesite.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Dec 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://catherine0822.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Effects of Picture Stimulations on the BCI P300 Speller</title>
-      <link>https://examplesite.com/portfolio/project-3/</link>
+      <link>https://catherine0822.github.io/portfolio/project-3/</link>
       <pubDate>Tue, 14 Dec 2021 12:14:34 +0600</pubDate>
       
-      <guid>https://examplesite.com/portfolio/project-3/</guid>
+      <guid>https://catherine0822.github.io/portfolio/project-3/</guid>
       <description>What is a P300 Speller? A P300 speller implement typing by thinking through detecting the p300 signal.</description>
     </item>
     
     <item>
       <title>Language and Information Architecture</title>
-      <link>https://examplesite.com/portfolio/project-4/</link>
+      <link>https://catherine0822.github.io/portfolio/project-4/</link>
       <pubDate>Mon, 13 Dec 2021 12:14:34 +0600</pubDate>
       
-      <guid>https://examplesite.com/portfolio/project-4/</guid>
+      <guid>https://catherine0822.github.io/portfolio/project-4/</guid>
       <description>A Study of English and Mandarin E-commerce Websites  Problem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>i-Path : An Intelligent System for Preserving Older Adults’ Wisdom</title>
-      <link>https://examplesite.com/portfolio/project-2/</link>
+      <link>https://catherine0822.github.io/portfolio/project-2/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://examplesite.com/portfolio/project-2/</guid>
+      <guid>https://catherine0822.github.io/portfolio/project-2/</guid>
       <description>Research Background  Through the retrospective view on his or her life, the narrator can acquire resilience, wisdom, well-aging, and well-being (Pecorini &amp;amp; Duplaa, 2017 ).</description>
     </item>
     
     <item>
       <title>Observational Learning</title>
-      <link>https://examplesite.com/portfolio/project-1/</link>
+      <link>https://catherine0822.github.io/portfolio/project-1/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://examplesite.com/portfolio/project-1/</guid>
+      <guid>https://catherine0822.github.io/portfolio/project-1/</guid>
       <description>Research Background  Although older adults had higher negative attitudes toward robots than younger adults, their acceptance toward robots could be enhanced after direct interaction with robots (Chien et al, 2019).</description>
     </item>
     

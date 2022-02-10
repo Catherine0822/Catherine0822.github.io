@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Information Architecture on Home | Catherine Yu</title>
-    <link>https://examplesite.com/categories/information-architecture/</link>
+    <link>https://catherine0822.github.io/categories/information-architecture/</link>
     <description>Recent content in Information Architecture on Home | Catherine Yu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
-    <lastBuildDate>Mon, 13 Dec 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://examplesite.com/categories/information-architecture/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Dec 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://catherine0822.github.io/categories/information-architecture/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Language and Information Architecture</title>
-      <link>https://examplesite.com/portfolio/project-4/</link>
+      <link>https://catherine0822.github.io/portfolio/project-4/</link>
       <pubDate>Mon, 13 Dec 2021 12:14:34 +0600</pubDate>
       
-      <guid>https://examplesite.com/portfolio/project-4/</guid>
+      <guid>https://catherine0822.github.io/portfolio/project-4/</guid>
       <description>A Study of English and Mandarin E-commerce Websites  Problem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
