@@ -1,32 +1,65 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blog on Catherine&#39;s Blog</title>
-    <link>https://Catherine0822.github.io/blog/</link>
-    <description>Recent content in blog on Catherine&#39;s Blog</description>
+    <title>Oh My Blog! on Home | Catherine Yu</title>
+    <link>https://examplesite.com/blog/</link>
+    <description>Recent content in Oh My Blog! on Home | Catherine Yu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate>
-    
-	<atom:link href="https://Catherine0822.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://examplesite.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Can Older Adults’ Acceptance toward Robots Enhanced by Observational Learning ?</title>
-      <link>https://Catherine0822.github.io/blog/port-1/</link>
-      <pubDate>Wed, 23 Dec 2020 10:07:47 +0600</pubDate>
+      <title>This Is A Simple Blog Post</title>
+      <link>https://examplesite.com/blog/blog-1/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://Catherine0822.github.io/blog/port-1/</guid>
-      <description>Research Background  Although older adults had higher negative attitudes toward robots than younger adults, their acceptance toward robots could be enhanced after direct interaction with robots (Chien et al, 2019).</description>
+      <guid>https://examplesite.com/blog/blog-1/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
-      <title>i-Path : An Intelligent System for Preserving Older Adults’ Wisdom</title>
-      <link>https://Catherine0822.github.io/blog/port-2/</link>
-      <pubDate>Wed, 23 Dec 2020 10:07:47 +0600</pubDate>
+      <title>This Is A Simple Blog Post</title>
+      <link>https://examplesite.com/blog/blog-2/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://Catherine0822.github.io/blog/port-2/</guid>
-      <description>Research Background  Through the retrospective view on his or her life, the narrator can acquire resilience, wisdom, well-aging, and well-being (Pecorini &amp;amp; Duplaa, 2017 ).</description>
+      <guid>https://examplesite.com/blog/blog-2/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>This Is A Simple Blog Post</title>
+      <link>https://examplesite.com/blog/blog-3/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/blog/blog-3/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>This Is A Simple Blog Post</title>
+      <link>https://examplesite.com/blog/blog-4/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/blog/blog-4/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>This Is A Simple Blog Post</title>
+      <link>https://examplesite.com/blog/blog-5/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/blog/blog-5/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>This Is A Simple Blog Post</title>
+      <link>https://examplesite.com/blog/blog-6/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/blog/blog-6/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
   </channel>
