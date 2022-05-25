@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
-    <lastBuildDate>Tue, 14 Dec 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://catherine0822.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 May 2022 12:14:34 +0600</lastBuildDate><atom:link href="https://catherine0822.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Future of Slack Connect with Salesforce Products</title>
+      <link>https://catherine0822.github.io/portfolio/project-5/</link>
+      <pubDate>Tue, 24 May 2022 12:14:34 +0600</pubDate>
+      
+      <guid>https://catherine0822.github.io/portfolio/project-5/</guid>
+      <description>In this Berkeley students UX research project, we cooperate with the Salesforce team to complete the research goals of inderstanding how their users use Slack Connect to support their work in Salesforce.</description>
+    </item>
+    
     <item>
       <title>Effects of Picture Stimuli on the BCI P300 Speller</title>
       <link>https://catherine0822.github.io/portfolio/project-3/</link>
