@@ -1,65 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Oh My Blog! on Home | Catherine Yu</title>
+    <title>Portfolio on Home | Catherine Yu</title>
     <link>https://catherine0822.github.io/blog/</link>
-    <description>Recent content in Oh My Blog! on Home | Catherine Yu</description>
+    <description>Recent content in Portfolio on Home | Catherine Yu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://catherine0822.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 May 2022 12:14:34 +0600</lastBuildDate><atom:link href="https://catherine0822.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>This Is A Simple Blog Post</title>
+      <title>Future of Slack Connect with Salesforce Products</title>
+      <link>https://catherine0822.github.io/blog/blog-3/</link>
+      <pubDate>Tue, 24 May 2022 12:14:34 +0600</pubDate>
+      
+      <guid>https://catherine0822.github.io/blog/blog-3/</guid>
+      <description>In this Berkeley students UX research project, we cooperate with Salesforce internal UX team to not only evaluate Slack Connect itself but also excavate its potential.</description>
+    </item>
+    
+    <item>
+      <title>Effects of Picture Stimuli on the BCI P300 Speller</title>
+      <link>https://catherine0822.github.io/blog/blog-2/</link>
+      <pubDate>Tue, 14 Dec 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://catherine0822.github.io/blog/blog-2/</guid>
+      <description>The research explores the possible mechanism that makes BCI speller using picture flashes produce a higher accuracy compared with those useing b/w letter flashes.</description>
+    </item>
+    
+    <item>
+      <title>Can we improve the aging group&#39;s acceptance of social robots by observational learning?</title>
       <link>https://catherine0822.github.io/blog/blog-1/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
       <guid>https://catherine0822.github.io/blog/blog-1/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>This Is A Simple Blog Post</title>
-      <link>https://catherine0822.github.io/blog/blog-2/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://catherine0822.github.io/blog/blog-2/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>This Is A Simple Blog Post</title>
-      <link>https://catherine0822.github.io/blog/blog-3/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://catherine0822.github.io/blog/blog-3/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>This Is A Simple Blog Post</title>
-      <link>https://catherine0822.github.io/blog/blog-4/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://catherine0822.github.io/blog/blog-4/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>This Is A Simple Blog Post</title>
-      <link>https://catherine0822.github.io/blog/blog-5/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://catherine0822.github.io/blog/blog-5/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>This Is A Simple Blog Post</title>
-      <link>https://catherine0822.github.io/blog/blog-6/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://catherine0822.github.io/blog/blog-6/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <description>In this research, we collaborate with ASUS, the leading electronics company in Taiwan, to use their social robot, Zenbo, to explore the effect of observational learning on older people&amp;rsquo;s acceptance toward the social robot.</description>
     </item>
     
   </channel>
