@@ -6,6 +6,34 @@
     <description>Recent content in Tags on Home | Catherine Yu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright><atom:link href="https://catherine0822.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Fri, 12 May 2023 12:14:34 +0600</lastBuildDate><atom:link href="https://catherine0822.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data science</title>
+      <link>https://catherine0822.github.io/tags/data-science/</link>
+      <pubDate>Fri, 12 May 2023 12:14:34 +0600</pubDate>
+      
+      <guid>https://catherine0822.github.io/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLP</title>
+      <link>https://catherine0822.github.io/tags/nlp/</link>
+      <pubDate>Fri, 12 May 2023 12:14:34 +0600</pubDate>
+      
+      <guid>https://catherine0822.github.io/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HCI</title>
+      <link>https://catherine0822.github.io/tags/hci/</link>
+      <pubDate>Wed, 13 Jul 2022 12:14:34 +0600</pubDate>
+      
+      <guid>https://catherine0822.github.io/tags/hci/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

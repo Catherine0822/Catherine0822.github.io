@@ -81,7 +81,7 @@
         
         <li class="menu-item menu-item-transparent dark hvr-underline-from-left 1"><a href="https://catherine0822.github.io/blog">Portfolio</a></li>
         
-        <li class="menu-item menu-item-transparent dark hvr-underline-from-left 1"><a href="https://catherine0822.github.io/resume.pdf">Resume</a></li>
+        <li class="menu-item menu-item-transparent dark hvr-underline-from-left 1"><a href="https://catherine0822.github.io/Catherine_Yu_resume_202307.pdf">Resume</a></li>
         
       </ul>
       
@@ -106,7 +106,7 @@
               
               <li class="hvr-shutter-out-vertical mobile-menu-item 1"><a href="https://catherine0822.github.io/blog">Portfolio</a></li>
               
-              <li class="hvr-shutter-out-vertical mobile-menu-item 1"><a href="https://catherine0822.github.io/resume.pdf">Resume</a></li>
+              <li class="hvr-shutter-out-vertical mobile-menu-item 1"><a href="https://catherine0822.github.io/Catherine_Yu_resume_202307.pdf">Resume</a></li>
               
             </ul>
             
@@ -141,18 +141,21 @@
       
       
       
+      
       <div class="col-lg-3">
         <div class="bg-white sticky-top wow fadeInUp" data-wow-duration="1.5s" style="top: 80px;">
           <div class="widget">
-            <h3 class="widget-title">Outline</h3>
+            <h5 class="widget-title">Outline</h5>
+            
             <ul>
-              <li><a class= "nav_bar" href= "#problem"> Problem </a></li>
-              <li><a class= "nav_bar" href="#research_question">Research Question</a></li>
-              <li><a class= "nav_bar" href="#method">Methods</a></li>
-              <li><a class= "nav_bar" href="#finding_1">Main Findings</a></li>
-              <li><a class= "nav_bar" href="#finding_2">More Findings</a></li>
-              <li><a class= "nav_bar" href="#reflection">Reflection</a></li>
-              <li><a class= "nav_bar" href="#reference">Reference</a></li>
+              <a class= "nav_bar" href="#1st"> What is a P300 Speller? </a>
+              <a class= "nav_bar" href="#2nd">Research Question</a>
+              <a class= "nav_bar" href="#3rd">Experiment Design</a>
+              <a class= "nav_bar" href="#4th">Results</a>
+              <a class= "nav_bar" href="#5th">Reflections</a>
+              <a class= "nav_bar" href="#6th">References</a>
+              <a class= "nav_bar" href="#7th"></a>
+              <a class= "nav_bar" href="#8th"></a>
             </ul>
           </div>
         </div>
@@ -166,34 +169,36 @@
             <h1>Effects of Picture Stimuli on the BCI P300 Speller</h1>
           </div>
           <div class="content"><p><i> The research explores the possible mechanism that makes BCI speller using picture flashes produce a higher accuracy compared with those useing b/w letter flashes. I hypothesize that the picture paradigm speller produces better performance because the flashes are colorful. The current result shows that pictures (no matter colorful or b/w) can produce a higher accuracy than letters (no matter colorful or b/w).</i></p>
+<p>Designed an experiment to explore the visual mechanism of brain-computer interface speller that realize typing through thinking; analyzed and visualized EEG data of 7 participants using R and Python; found that picture stimuli evoke a better performance compared with letter stimuli, regardless of their color.</p>
+<div id="1st"> </div> 
+<br>
+<br>
+<h3 id="what-is-a-p300-speller">What is a P300 Speller?</h3>
 <hr>
-<h4 id="what-is-a-p300-speller">What is a P300 Speller?</h4>
 <p>A P300 speller implement typing by thinking through detecting the p300 signal. The speller catch the letter at the intersection of the row and column that have the highest p300 signals.</p>
 <p>Picture flashes: <a href="https://www.youtube.com/watch?v=FmSKfg4SZq0&amp;ab_channel=gtecmedicalengineering">https://www.youtube.com/watch?v=FmSKfg4SZq0&amp;ab_channel=gtecmedicalengineering</a></p>
 <p>Letter flashes: <a href="https://www.youtube.com/watch?v=XIr2cRKFolY&amp;t=144s&amp;ab_channel=MikeChi">https://www.youtube.com/watch?v=XIr2cRKFolY&amp;t=144s&amp;ab_channel=MikeChi</a></p>
+<div id="2nd"> </div> 
+<br>
+<br>
+<h3 id="research-question">Research Question</h3>
 <hr>
-<h4 id="motivation">Motivation</h4>
+<p>Previous research find out that picture- based speller produces a larger amplitude difference in some ERP components and higher accuracy in typing performance than the traditional letter speller. I hypothesized that picture paradigm speller produces better performance because the flashes are colorful.</p>
 <ul>
 <li>
-<p>Previous research <br>
-Picture- based speller produces a larger amplitude difference in some ERP components and higher accuracy in typing performance than the traditional letter speller.</p>
+<p>Reserch Goal: Understanding the possible mechanism that makes picture flashes produce a higher accuracy compared with b/w letter flashes.</p>
 </li>
 <li>
-<p>My hypothesis <br>
-Picture paradigm speller produces better performance because the flashes are colorful.</p>
+<p>Research Question: Is the difference caused by the color of the picture?</p>
 </li>
 </ul>
+<div id="3rd"> </div> 
+<br>
+<br>
+<h3 id="experiment-design">Experiment Design</h3>
 <hr>
-<h4 id="research-goal-and-question">Research Goal and Question</h4>
 <ul>
 <li>
-<p>Goal: Understanding the possible mechanism that makes picture flashes produce a higher accuracy compared with b/w letter flashes.</p>
-</li>
-<li>
-<p>Question: Is the difference caused by the color of the picture?</p>
-</li>
-</ul>
-<hr>
 <h4 id="four-experimental-contitions">Four experimental contitions</h4>
 <!--![image](../../images/portfolio/port-1/1.png)-->
 <img class="img-fluid" src="../../images/portfolio/port-3/3.png" alt="image"/>
@@ -204,14 +209,17 @@ Picture paradigm speller produces better performance because the flashes are col
   </div>
 </div>
 -->
-<hr>
+</li>
+<li>
 <h4 id="expected-result">Expected result</h4>
 <p>The accuracy of the CFLP and PP is going to be significantly higher than that of the BWPP and FLP.</p>
-<hr>
+</li>
+<li>
 <h4 id="participants">Participants</h4>
 <p>Gender: 2 male, 4 female <br>
 Age: 20~30</p>
-<hr>
+</li>
+<li>
 <h4 id="procedure">Procedure</h4>
 <dl>
   <dt>Calibration phase</dt>
@@ -227,16 +235,22 @@ Age: 20~30</p>
   </dd>
 </dl>
 <img src="../../images/portfolio/port-3/four.png" alt="image" width = "70%"/>
-<hr>
+</li>
+<li>
 <h4 id="four-measurements-of-accuracy">Four measurements of accuracy</h4>
+</li>
+</ul>
 <img src="../../images/portfolio/port-3/5.png" alt="image" style = "margin-top:30px;width:100%"/>
+<div id="4th"> </div> 
+<br>
+<br>
+<h3 id="results">Results</h3>
 <hr>
-<h4 id="results">Results</h4>
 <dl>
   <dt>One-way ANOVA</dt>
   <dd>
   - No statistically significant difference <br>
-  - Reasonable because there are only 6 samples
+  - Reasonable because tshere are only 6 samples
   </dd>
   <dt>PP and BWPP have the highest accuracy</dt>
   <dd>
@@ -246,8 +260,12 @@ Age: 20~30</p>
   <dt>CFLP has the lowest accuracy</dt>
 </dl>
 <img src="../../images/portfolio/port-3/6.png" alt="image" style = "margin:50px; width:80%" />
-<hr>
+<div id="5th"> </div> 
+<br>
+<br>
 <h4 id="reflections">Reflections</h4>
+<hr>
+<p>The result of this study shows that pictures (no matter colorful or b/w) can produce a higher accuracy than letters (no matter colorful or b/w). However, further study is required to make a more accurate conclusion.</p>
 <dl>
   <dt>Participants</dt>
   <dd>
@@ -279,11 +297,11 @@ Age: 20~30</p>
   </dd>
 </dl>
 <img src="../../images/portfolio/port-3/8.png" alt="image" width = "75%"/>
-<hr>
-<h4 id="conclusion">Conclusion</h4>
-<p>The result of this study shows that pictures (no matter colorful or b/w) can produce a higher accuracy than letters (no matter colorful or b/w). However, further study is required to make a more accurate conclusion.</p>
-<hr>
+<div id="6th"> </div> 
+<br>
+<br>
 <h4 id="references">References</h4>
+<hr>
 <ol>
 <li>
 <p>A Review on Brain-Computer Interface (BCI) Spellers: P300 Speller
