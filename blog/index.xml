@@ -32,7 +32,7 @@
       <pubDate>Tue, 24 May 2022 12:14:34 +0600</pubDate>
       
       <guid>https://catherine0822.github.io/blog/blog-3/</guid>
-      <description>In this UX research project, my three teammates and I cooperated with Salesforce&#39;s internal UX team to not only evaluate Slack Connect but also excavate its potential.</description>
+      <description>In this UX research project, my three teammates and I cooperated with Salesforce&#39;s internal UX team to not only evaluate Slack Connect but also excavate its potential of intergrating Salesforce&#39;s services.</description>
     </item>
     
     <item>
@@ -42,6 +42,15 @@
       
       <guid>https://catherine0822.github.io/blog/blog-2/</guid>
       <description>The research explores the possible mechanism that makes BCI speller using picture flashes produce a higher accuracy compared with those useing b/w letter flashes.</description>
+    </item>
+    
+    <item>
+      <title>i-Path : An Intelligent System for Preserving Older Adults’ Wisdom</title>
+      <link>https://catherine0822.github.io/blog/blog-6/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://catherine0822.github.io/blog/blog-6/</guid>
+      <description>Collaborating with Yoshifumi Kitamura&amp;rsquo;s Interactive Content Design lab from Tohoku U, our engineering team developed a digitized storytelling system that aims to assist older adults with preserving their memory and improving mental health.</description>
     </item>
     
   </channel>
