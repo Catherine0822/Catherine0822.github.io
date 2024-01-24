@@ -10,15 +10,6 @@
     <lastBuildDate>Tue, 14 Dec 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://catherine0822.github.io/categories/hci/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Effects of Picture Stimuli on the BCI P300 Speller</title>
-      <link>https://catherine0822.github.io/blog/blog-2/</link>
-      <pubDate>Tue, 14 Dec 2021 12:14:34 +0600</pubDate>
-      
-      <guid>https://catherine0822.github.io/blog/blog-2/</guid>
-      <description>The research explores the possible mechanism that makes BCI speller using picture flashes produce a higher accuracy compared with those useing b/w letter flashes.</description>
-    </item>
-    
-    <item>
-      <title>Effects of Picture Stimuli on the BCI P300 Speller</title>
       <link>https://catherine0822.github.io/portfolio/project-3/</link>
       <pubDate>Tue, 14 Dec 2021 12:14:34 +0600</pubDate>
       
@@ -33,15 +24,6 @@
       
       <guid>https://catherine0822.github.io/portfolio/project-1/</guid>
       <description>In this research, we collaborate with ASUS, the leading electronics company in Taiwan, to use their social robot, Zenbo, to explore the effect of observational learning on older people&amp;rsquo;s acceptance toward the social robot.</description>
-    </item>
-    
-    <item>
-      <title>i-Path : An Intelligent System for Preserving Older Adults’ Wisdom</title>
-      <link>https://catherine0822.github.io/blog/blog-6/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://catherine0822.github.io/blog/blog-6/</guid>
-      <description>Collaborating with Yoshifumi Kitamura&amp;rsquo;s Interactive Content Design lab from Tohoku U, our engineering team developed a digitized storytelling system that aims to assist older adults with preserving their memory and improving mental health.</description>
     </item>
     
   </channel>
