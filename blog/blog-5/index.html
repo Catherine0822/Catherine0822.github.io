@@ -150,10 +150,10 @@
               <li><a class= "nav_bar" href="#1st">Artifacts</a></li>
               <li><a class= "nav_bar" href="#2nd">Problem</a></li>
               <li><a class= "nav_bar" href="#3rd">Sage</a></li>
-              <li><a class= "nav_bar" href="#4th">Digging into Model Details</a></li>
-              <li><a class= "nav_bar" href="#5th">Reflections</a></li>
-              <li><a class= "nav_bar" href="#6th">References</a></li>
-              <li><a class= "nav_bar" href="#7th"></a></li>
+              <li><a class= "nav_bar" href="#4th">Defining Ageism in the Workforce</a></li>
+              <li><a class= "nav_bar" href="#5th">Digging into Model Details</a></li>
+              <li><a class= "nav_bar" href="#6th">Reflections</a></li>
+              <li><a class= "nav_bar" href="#7th">References</a></li>
               <li><a class= "nav_bar" href="#8th"></a></li>
             </ul>
           </div>
@@ -167,8 +167,9 @@
           <div class="about-me-text mb-4">
             <h1>Sage: Enabling Aging Workers to Excel in the Modern Job Market</h1>
           </div>
-          <div class="content"><p>A machine learning &amp; natural language processing browser plug-in that enables aging workers to take control of their futures.</p>
-<p>In this project, I built a BERT-based NLP model designed to detect age-biased terms targeting older job seekers within job postings. The primary objective behind flagging ageism terms in job posts is to provide older job seekers an understanding that <strong>it is the job postings that are problematic rather than their age</strong>.  This awareness can help older job seekers navigate the job market more confidently and advocate for fair treatment based on their qualifications and skills rather than arbitrary age-related biases.</p>
+          <div class="content"><p><i style="font-size:16px" >A machine learning &amp; natural language processing browser plug-in that enables aging workers to take control of their futures.</p>
+<p>In this project, I built a BERT-based NLP model designed to detect age-biased terms targeting older job seekers within job postings. The primary objective behind flagging ageism terms in job posts is to provide older job seekers an understanding that <strong>it is the job postings that are problematic rather than their age</strong>.  This awareness can help older job seekers navigate the job market more confidently and advocate for fair treatment based on their qualifications and skills rather than arbitrary age-related biases.
+</i></p>
 <div id="1st"> </div> 
 <br>
 <br>
@@ -182,8 +183,8 @@ Github Repo: <a href="https://github.com/Catherine0822/Capstone-Sage/tree/main">
 <h3 id="problem">Problem</h3>
 <hr>
 <p>As the job market becomes increasingly digital, job websites have become a critical tool for job seekers of all ages. However, many of these websites are designed with <strong>a narrow focus on younger job seekers</strong>, ignoring the needs and preferences of older users. This lack of age inclusivity can <strong>create significant barriers for older job seekers</strong>, who may encounter ageist language and assumptions in job postings. Employers often use language that implies a preference for younger candidates or even excludes older workers entirely. This practice is not only unfair but also illegal, yet it persists on job sites across the internet.</p>
-<p>In this project, we explored two prototypes with which we try to promote age inclusivity on job websites:
-(1) improving website design to better meet the needs of older users, and (2) <strong>mitigating the impact of ageist language in job descriptions, which is also where my work focused on in this project.</strong></p>
+<p>In this project, we explored two prototypes aimed at promoting age inclusivity on job websites:
+(1) improving website design to better meet the needs of older users, and (2) <strong>mitigating the impact of ageist language in job descriptions, which is also the focus of my work in this project.</strong></p>
 <img src="../../images/portfolio/port-7/6.png" alt="image" style = "margin-top:20px;margin-bottom:30px;width:90%"/> 
 <div id="3rd"> </div> 
 <br>
@@ -191,7 +192,7 @@ Github Repo: <a href="https://github.com/Catherine0822/Capstone-Sage/tree/main">
 <h3 id="sage">Sage</h3>
 <hr>
 <h4 id="knowing-our-space">knowing our space</h4>
-<p>My team included two designers, a PM, a cybersecurity lead, and a data scientist (me). We worked alongside Annalee Saxenian, a professor at the Berkeley I School. She helped us with our product problem scoping and subject matter expertise, respectively. Additionally, we conducted 26 interviews and 6 usability testings in the recruiting space in order to develop our solution.</p>
+<p>My team included two designers, a PM, a cybersecurity lead, and a data scientist (me). We worked alongside Annalee Saxenian, a professor at the Berkeley I School. She helped us with our product problem scoping and subject matter expertise, respectively. Additionally, we conducted <strong>26 interviews</strong> and <strong>6 usability testings</strong> in the recruiting space in order to develop our solution.</p>
 <br>
 <img src="../../images/portfolio/port-7/7.png" alt="image" style = "margin-bottom:50px;width:40%;float: right"/> 
 <h4 id="how-its-done">How it’s done</h4>
@@ -212,12 +213,12 @@ Github Repo: <a href="https://github.com/Catherine0822/Capstone-Sage/tree/main">
 <div id="4th"> </div> 
 <br>
 <br>
-<h3 id="digging-into-model-details">Digging into Model Details</h3>
+<h3 id="defining-ageism-in-the-workforce">Defining Ageism in the Workforce</h3>
 <hr>
 <ul>
 <li>
-<h5 id="defining-age-discrimination-in-the-workforce">Defining Age Discrimination in the Workforce</h5>
-<p>To build a model that detects ageist language, we have to first clearly define what agesim in the workforce is. We conducted extensive literature research and qualitative interviews to summerize the various types of ageist languages that may occur in job descriptions.</p>
+<h5 id="interview--literature-review">Interview &amp; Literature Review</h5>
+<p>To build a model that detects ageist language, we first need to clearly define ageism in the workforce. We conducted extensive literature research and 26 qualitative interviews to summarize the various types of ageist language that may occur in job descriptions.</p>
   <br>     								
 <table>
 <thead>
@@ -256,9 +257,16 @@ Github Repo: <a href="https://github.com/Catherine0822/Capstone-Sage/tree/main">
 <ul>
 <li>
 <h5 id="data-sources--annotations">Data sources &amp; Annotations</h5>
-<p>We sampled approximately <b>200 job ads</b> from the Employment Scam Aegean Dataset (EMSCAD) &amp; 10,000 data science US job postings from Data.world. With an inter annotator agreement of 0.896, we annotated over <b> 800 lines of text </b> from various job descriptions and requirements in these datasets to create our traning dataset. Among them, <b>60%</b> of the data were used as the <b>training set</b>, <b>20%</b> as the <b>validation set</b>, and the rest of <b>20%</b> were used to <b>test</b> the model performance.</p>
+<p>We sampled approximately <b>200 job ads</b> from the Employment Scam Aegean Dataset (EMSCAD) &amp; 10,000 data science US job postings from Data.world. With an <strong>inter annotator agreement of 0.896</strong>, we annotated over <b> 800 lines of text </b> from various job descriptions and requirements in these datasets to create our traning dataset. Among them, <b>60%</b> of the data were used as the <b>training set</b>, <b>20%</b> as the <b>validation set</b>, and the rest of <b>20%</b> were used to <b>test</b> the model performance.</p>
   <img src="../../images/portfolio/port-7/5.png" alt="image" style = "margin-top:20px;margin-bottom:30px; margin-right:30px; width:100%"/> 
 </li>
+</ul>
+<div id="5th"> </div> 
+<br>
+<br>
+<h3 id="digging-into-model-details">Digging into Model Details</h3>
+<hr>
+<ul>
 <li>
 <h5 id="model-structure">Model structure</h5>
   <img src="../../images/portfolio/port-7/8.png" alt="image" style = "margin-top:20px;margin-bottom:30px; margin-right:30px; width:100%"/> 
@@ -280,7 +288,7 @@ Github Repo: <a href="https://github.com/Catherine0822/Capstone-Sage/tree/main">
   <img src="../../images/portfolio/port-7/3.png" alt="image" style = "margin-top:20px;margin-bottom:30px;width:45%"/> 
 </li>
 </ul>
-<div id="5th"> </div> 
+<div id="6th"> </div> 
 <br>
 <br>
 <h3 id="reflections">Reflections</h3>
@@ -288,18 +296,18 @@ Github Repo: <a href="https://github.com/Catherine0822/Capstone-Sage/tree/main">
 <ul>
 <li>
 <h5 id="vague-definitions-of-age-discriminatory">Vague definitions of age discriminatory</h5>
-<p>When my colleagues and I were annotating the data, we spent a lot of time discussing if using certain personality traits that are more stereotypically describing younger people (ex. passionate, highly-motivated, creative, and innovative) discriminatory. Though it doesn’t mean that older people can’t be passionate or highly-motivated, we found out that overly using those words can infer age discrimination. However, the line between ageism or not still depends from individual to individual.</p>
+<p>When my colleagues and I were annotating the data, we spent a lot of time discussing whether using <strong>certain personality traits that stereotypically describe younger people</strong> (e.g., passionate, highly motivated, creative, and innovative) could be considered discriminatory. While it doesn&rsquo;t imply that older people can&rsquo;t possess these traits, we discovered that <strong>the excessive use of such terms may imply age discrimination</strong>. However, the distinction between ageism or not still depends on the individual perspective.</p>
 </li>
 <li>
 <h5 id="limitations-on-data-sources">Limitations on data sources</h5>
-<p>Currently, the model is trained on a static dataset annotated by two students. Therefore,any possible difference in perception of discrimination by real-world users as compared to that learned by the model from the student researcher annotations would not be captured presently. In order to capture any bias introduced by third-party annotators and correct the model to capture discrimination as perceived by real-world users, the next step would be to introduce a user feedback loop, so the training of the model can be dynamic based on real user feedback and less reliant on bulk annotation by external annotators thereby reducing the bias.</p>
+<p>Currently, the model is trained on a static dataset annotated by two students. Therefore, any potential differences in the perception of discrimination by real-world users, as compared to what the model learned from the student researcher annotations, would not be captured at present. To address this and correct for any bias introduced by third-party annotators, the next step involves <strong>implementing a user feedback loop.</strong> This dynamic approach to training the model will be based on real user feedback, reducing dependence on bulk annotation by external annotators and minimizing bias.</p>
 </li>
 <li>
 <h5 id="using-other-types-of-model">Using other types of model</h5>
-<p>The current model in use focuses on sentence-level classification, which limits its ability to capture the broader context of entire paragraphs or job descriptions. Using models such as SBERT could potentially offer improved capability to detect implicit ageism present in job advertisements. Next, he project encountered challenges in implementing more intricate models due to the limitations imposed by restricted computational resources. With increased computational resources in the future, it would be possible to leverage more extensive datasets and employ more intricate models such as fine-tuning with a larger batch size. Additionally, employing multi-classification models instead of binary classification models may allow for the inclusion of diverse levels of ageism and, to some extent, addresses the mentioned ambiguity.</p>
+<p>The current model in use focuses on sentence-level classification, limiting its ability to <strong>capture the broader context of entire paragraphs or job descriptions.</strong> Utilizing models such as <strong>SBERT</strong> could potentially enhance its capability to detect implicit ageism present in job advertisements. However, the project encountered challenges in implementing more intricate models due to limitations imposed by restricted computational resources. With increased computational resources in the future, leveraging more extensive datasets and employing more intricate models, such as fine-tuning with a <strong>larger batch size</strong>, would become possible. Additionally, employing <strong>multi-classification models</strong> instead of binary classification models may allow for the inclusion of diverse levels of ageism and, to some extent, address the mentioned ambiguity.</p>
 </li>
 </ul>
-<div id="6th"> </div> 
+<div id="7th"> </div> 
 <br>
 <br>
 <h3 id="references">References</h3>

@@ -167,28 +167,37 @@
           <div class="about-me-text mb-4">
             <h1>Effects of Picture Stimuli on the BCI P300 Speller</h1>
           </div>
-          <div class="content"><p><i> The research explores the possible mechanism that makes BCI speller using picture flashes produce a higher accuracy compared with those useing b/w letter flashes. I hypothesize that the picture paradigm speller produces better performance because the flashes are colorful. The current result shows that pictures (no matter colorful or b/w) can produce a higher accuracy than letters (no matter colorful or b/w).</i></p>
-<p>Designed an experiment to explore the visual mechanism of brain-computer interface speller that realize typing through thinking; analyzed and visualized EEG data of 7 participants using R and Python; found that picture stimuli evoke a better performance compared with letter stimuli, regardless of their color.</p>
+          <div class="content"><p><i style="font-size:16px" > The research explores the potential mechanism that causes a higher accuracy in a BCI speller using picture flashes compared to those using black and white letter flashes. I hypothesize that the picture paradigm speller performs better because the flashes are colorful. The current results show that pictures, whether colorful or black and white, can achieve higher accuracy than letters, whether colorful or black and white.
+</i></p>
 <div id="1st"> </div> 
 <br>
 <br>
 <h3 id="what-is-a-p300-speller">What is a P300 Speller?</h3>
 <hr>
 <p>A P300 speller implement typing by thinking through detecting the p300 signal. The speller catch the letter at the intersection of the row and column that have the highest p300 signals.</p>
+<ul>
+<li>
 <p>Picture flashes: <a href="https://www.youtube.com/watch?v=FmSKfg4SZq0&amp;ab_channel=gtecmedicalengineering">https://www.youtube.com/watch?v=FmSKfg4SZq0&amp;ab_channel=gtecmedicalengineering</a></p>
+</li>
+<li>
 <p>Letter flashes: <a href="https://www.youtube.com/watch?v=XIr2cRKFolY&amp;t=144s&amp;ab_channel=MikeChi">https://www.youtube.com/watch?v=XIr2cRKFolY&amp;t=144s&amp;ab_channel=MikeChi</a></p>
+</li>
+</ul>
 <div id="2nd"> </div> 
 <br>
 <br>
 <h3 id="research-question">Research Question</h3>
 <hr>
-<p>Previous research find out that picture- based speller produces a larger amplitude difference in some ERP components and higher accuracy in typing performance than the traditional letter speller. I hypothesized that picture paradigm speller produces better performance because the flashes are colorful.</p>
+<p>Previous research has found that a picture-based speller produces a larger amplitude difference in certain ERP components and higher accuracy in typing performance compared to the traditional letter speller. I hypothesize that the picture paradigm speller performs better because the flashes are colorful.</p>
 <ul>
 <li>
-<p>Reserch Goal: Understanding the possible mechanism that makes picture flashes produce a higher accuracy compared with b/w letter flashes.</p>
+<h5>Reserch Goal</h5> Understanding the possible mechanism that causes picture flashes to achieve higher accuracy compared to black and white letter flashes.
 </li>
+</ul>
+<br>
+<ul>
 <li>
-<p>Research Question: Is the difference caused by the color of the picture?</p>
+<h5>Research Question</h5> Is the difference in accuracy caused by the color of the picture?
 </li>
 </ul>
 <div id="3rd"> </div> 
@@ -220,26 +229,20 @@ Age: 20~30</p>
 </li>
 <li>
 <h4 id="procedure">Procedure</h4>
-<dl>
-  <dt>Calibration phase</dt>
-  <dd>
-  - calibrate a five-character word <br>
-  - pares, chino, presa, hinco
-  </dd>
-  <dt>Typing-by-thinking phase</dt>
-  <dd>
-  - Keep trying until successfully type the 3 letters “UNI” <br>
-  - Stop after typing 12 letters <br>
-  - Silently count as the target letter flashes <br>
-  </dd>
-</dl>
+<p>Participants will go through two stages of interaction with the speller.</p>
+<h5>Calibration phase</h5> 
+The first stage is the calibration phase, during which participants will <b>practice typing and calibrate the speller using a five-character word</b> randomly selected from the following four words: pares, chino, presa, hinco.
+<br>
+<br>
+<h5>Typing-by-thinking phase</h5>
+In the second step, participants will <b>type a 3-character word - UNI.</b> They will be asked to continue trying until they successfully type the three letters “UNI.” If the participant <b>fails to complete the three words after typing 12 letters, the Typing-by-Thinking phase will stop.</b> To achieve Typing-by-Thinking, participants are instructed to count silently as the target letter flashes to amplify the brain signal.
 <img src="../../images/portfolio/port-3/four.png" alt="image" width = "70%"/>
 </li>
 <li>
-<h4 id="four-measurements-of-accuracy">Four measurements of accuracy</h4>
+<h4 id="metrics">Metrics</h4>
 </li>
 </ul>
-<img src="../../images/portfolio/port-3/5.png" alt="image" style = "margin-top:30px;width:100%"/>
+<img src="../../images/portfolio/port-3/5.png" alt="image" style = "margin-top:30px;margin-left:40px;width:90%"/>
 <div id="4th"> </div> 
 <br>
 <br>
@@ -249,11 +252,11 @@ Age: 20~30</p>
   <dt>One-way ANOVA</dt>
   <dd>
   - No statistically significant difference <br>
-  - Reasonable because tshere are only 6 samples
+  - Reasonable because there are only 6 samples
   </dd>
-  <dt>PP and BWPP have the highest accuracy</dt>
+  <dt>Both picture paradigm (PP and BWPP) have the highest accuracy</dt>
   <dd>
-  - the pattern of the data does not support my hypothesis
+  - the pattern of the data does not support my hypothesis <br>
   - the two picture paradigms got the highest accuracy, no matter the pictures are colorful or not
   </dd>
   <dt>CFLP has the lowest accuracy</dt>

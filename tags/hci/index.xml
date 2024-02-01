@@ -18,6 +18,15 @@
     </item>
     
     <item>
+      <title>i-Path : An Intelligent System for Preserving Older Adults’ Wisdom</title>
+      <link>https://catherine0822.github.io/blog/blog-6/</link>
+      <pubDate>Sun, 12 Jun 2022 12:14:34 +0600</pubDate>
+      
+      <guid>https://catherine0822.github.io/blog/blog-6/</guid>
+      <description>Collaborating with Yoshifumi Kitamura&amp;rsquo;s Interactive Content Design lab from Tohoku U, our engineering team developed a digitized storytelling system that aims to assist older adults with preserving their memory and improving mental health.</description>
+    </item>
+    
+    <item>
       <title>Future of Slack Connect with Salesforce Products</title>
       <link>https://catherine0822.github.io/blog/blog-3/</link>
       <pubDate>Tue, 24 May 2022 12:14:34 +0600</pubDate>
@@ -32,16 +41,7 @@
       <pubDate>Tue, 14 Dec 2021 12:14:34 +0600</pubDate>
       
       <guid>https://catherine0822.github.io/blog/blog-2/</guid>
-      <description>The research explores the possible mechanism that makes BCI speller using picture flashes produce a higher accuracy compared with those useing b/w letter flashes.</description>
-    </item>
-    
-    <item>
-      <title>i-Path : An Intelligent System for Preserving Older Adults’ Wisdom</title>
-      <link>https://catherine0822.github.io/blog/blog-6/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://catherine0822.github.io/blog/blog-6/</guid>
-      <description>Collaborating with Yoshifumi Kitamura&amp;rsquo;s Interactive Content Design lab from Tohoku U, our engineering team developed a digitized storytelling system that aims to assist older adults with preserving their memory and improving mental health.</description>
+      <description>The research explores the potential mechanism that causes a higher accuracy in a BCI speller using picture flashes compared to those using black and white letter flashes.</description>
     </item>
     
   </channel>
